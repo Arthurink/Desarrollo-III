@@ -1,4 +1,4 @@
-public class Empleado extends Persona{
+public class Empleado extends Persona {
     private String cargo;
 
     public String getCargo() {
@@ -9,4 +9,7 @@ public class Empleado extends Persona{
         this.cargo = cargo;
     }
     
+    public void setNombre(String nombre) {
+        super.setNombre("Emp-"+nombre);
+    }
 }
