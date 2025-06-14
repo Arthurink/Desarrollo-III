@@ -1,0 +1,6 @@
+La computadora escoge un numero entre 1 y 100
+El usuario tratará de adivinar el número.
+La computadora le indicará si el número es muy alto, muy bajo o correcto.
+Llevar un contador de intentos.
+
+

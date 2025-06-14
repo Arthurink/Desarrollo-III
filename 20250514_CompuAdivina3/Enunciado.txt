@@ -1,0 +1,12 @@
+El usuario escoge un numero entre 1 y 100
+La computadora tratará de adivinar el número.
+El usuario le indicará si el número es muy alto, muy bajo o correcto.
+Llevar un contador de intentos.
+
+Variantes:
+
+1. rnd.nextInt(min,max)
+2. rnd.nextInt(num)
+3. sin rnd
+
+
