@@ -1,0 +1,5 @@
+Santiago,92,130
+Jonatan,194,258
+Carmen,389,252
+Jon,490,623
+San,500,650
